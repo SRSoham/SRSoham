@@ -25,6 +25,27 @@
 </p>
 
 
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/soham-rayate">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:rayatesoham@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/SRSoham">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://discordapp.com/users/sohamr_">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
