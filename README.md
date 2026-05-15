@@ -19,10 +19,10 @@
 
 
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,vscode,react,nodejs,mysql,mongodb&theme=dark" />
 </p>
 
 
