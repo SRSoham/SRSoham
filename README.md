@@ -18,7 +18,7 @@
 - ⚡ Interested in AI, Development and Open Source
 
 
-
+# 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,vscode" /><br>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
