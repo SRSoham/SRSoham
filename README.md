@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Soham Rayate
+</h1>
 
-<!--
-**SRSoham/SRSoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=AI+%26+DS+Student;Learning+Java+%26+Python;Open+Source+Contributor;Learning+DSA+and+Web+Development" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+
+- 🎓 AI & DS Student
+- 🌱 Learning Java, Python & DSA
+- 💻 Open Source Contributor (GSSoC'26)
+- 🚀 Exploring Web Development & AI
+- ⚡ Interested in AI, Development and Open Source
+
+
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css" />
+</p>
+
+
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css" />
+</p>
