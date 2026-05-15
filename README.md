@@ -28,7 +28,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soham-rayate">
+  <a href="https://www.linkedin.com/in/soham-rayate-40b202350/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
