@@ -25,9 +25,13 @@
 </p>
 
 
+## 📊 GitHub Stats
 
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRSoham&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRSoham&theme=tokyonight" />
+</p>
+
